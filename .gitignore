@@ -1,0 +1,5 @@
+/target
+/.idea
+log.out
+maze.iml
+src/main/resources/cache/cachemaze.ser
